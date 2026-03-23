@@ -23,6 +23,6 @@ Like a well-crafted blend, Vincent Yang proves that when curiosity and disciplin
 
 | Qty | Action |
 |:----:|:------:|
-| [-] 1 [+] | 🛒 [Add to Cart](mailto@gatech.edu) |
+| [-] 1 [+] | [Add to Cart](mailto@vyang44@gatech.edu) |
 
 (Credit: GPT-5.3)
