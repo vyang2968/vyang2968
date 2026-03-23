@@ -21,8 +21,8 @@ Expect notes of late-night problem solving, a hint of aviation fuel (metaphorica
 
 Like a well-crafted blend, Vincent Yang proves that when curiosity and discipline come together, the result is something greater than the sum of its parts.
 
+(Thanks,  GPT-5.3)
+
 | Qty | Action |
 |:----:|:------:|
 | [-] 1 [+] | [Add to Cart](mailto@vyang44@gatech.edu) |
-
-(Credit: GPT-5.3)
