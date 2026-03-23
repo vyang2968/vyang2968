@@ -1,16 +1,24 @@
-## Hi there 👋
+### VINCENT YANG
 
-<!--
-**vyang2968/vyang2968** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**$21.00**
 
-Here are some ideas to get you started:
+YEAR
+| 2026 | > 2027 | 2028 |
+|---|---|---|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## VINCENT YANG
+
+*Enjoys: Coffee, Airplanes, Skiing*
+
+**Blend:** Student + Full-Stack Engineer
+
+This is an everyday coffee that still manages to feel like an adventure.
+
+Vincent Yang is a blend of two worlds: one part meticulous engineer, one part aspiring aviator. Grounded in logic but always ready to climb to new altitudes, Vincent moves easily between debugging code and studying the skies. Like any great roast, he’s balanced—approachable and thoughtful on the surface, with layers of curiosity, precision, and ambition underneath.
+
+Expect notes of late-night problem solving, a hint of aviation fuel (metaphorically speaking), and a smooth finish of collaboration and good conversation. Vincent thrives where ideas take flight—whether building software, discussing systems, or swapping stories about airplanes and technology. Best enjoyed in good company, during deep conversations, spontaneous brainstorming sessions, or moments when someone says, “Wait… what if we tried it this way?”
+
+Like a well-crafted blend, Vincent Yang proves that when curiosity and discipline come together, the result is something greater than the sum of its parts.
+
+(Credit: GPT-5.3)
